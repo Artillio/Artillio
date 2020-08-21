@@ -14,4 +14,4 @@
 
 <br>
 
-[[Artillio's github stats](https://github-readme-stats.artillio.vercel.app/api?username=artillio&show_icons=true&hide_border=true)]
+![Artillio's github stats](https://github-readme-stats.artillio.vercel.app/api?username=artillio&show_icons=true&hide_border=true)
